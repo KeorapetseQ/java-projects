@@ -1,0 +1,5 @@
+claim_number,policy_number,customer_id,date_submitted,claim_amount,description,status,approved_amount,rejection_reason
+CLA 2345,POL-82663,CUST-56871,11/2/2026,40000,vehicle accident,SUBMITTED,30000,N/A
+CLA-1701,POL-13821,CUST-28495,11/18/2026,95000,Vehicle accident,SUBMITTED,0,
+CLA-4342,POL-74339,CUST-34942,11/9/2026,80000,Dental treatment and cosmetic procedures,REJECTED,0,Treatment is not covered under the policy
+CLA-9642,POL-15836,CUST-82313,11/17/2026,100000,"Car accident, damaged headlights",APPROVED,65000,

@@ -1,0 +1,10 @@
+customer_id,first_name,surname,national_id,date_of_birth,gender,phone_number,email,physical_address
+CUST-001,Lerato,Seema,ID123456789,5/12/1990,Female,26658123456,lerato@gmail.com,"123 Main Road, Maseru"
+CUST-34942,Balegile,Klaas,ID65729344,11/10/2006,Female,26657384562,kbalegile@gmail.com,"Maseru 100
+PO Box 1283"
+CUST-45313,Thabo,Mokoena,ID021347865,7/9/2012,Male,+266 57839456,thabomokoena87@gmail.com,"Maseru 100
+PO Box 2930"
+CUST-4767,Travis,Scott,ID02938454,8/21/2001,Male,26658793847,tlhohonolofatsok.qoane@gmail.com,"Ha Tsolo
+Maseru 100"
+CUST-56871,Keorapetse,Qoane,ID90382344,9/17/2000,Female,26657263456,tlhohonolofatsok.qoane@gmail.com,"Lesotho, Maseru 100
+po 7801"
